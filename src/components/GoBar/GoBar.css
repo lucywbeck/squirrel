@@ -1,0 +1,21 @@
+.gobar-footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+}
+
+.start-button {
+    color: green;
+    background-color: white;
+    border-color: white;
+
+    font-size: 1rem;
+    font-weight: 900;
+}
+
+.start-button:hover {
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}

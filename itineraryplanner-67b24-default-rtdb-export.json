@@ -1,0 +1,111 @@
+{
+  "Paris": {
+    "locations": [
+      {
+        "address": "2 All. Adrienne Lecouvreur, 75007 Paris, France",
+        "description": "The Champ de Mars is a large public greenspace in Paris, France, located in the seventh arrondissement, between the Eiffel Tower to the northwest and the École Militaire to the southeast. The park is named after the Campus Martius in Rome, a tribute to the Roman god of war.",
+        "id": 0,
+        "image": "https://en.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_230/champ-de-mars-le-mur-pour-la-paix-%7C-630x405-%7C-%C2%A9-otcp-david-lefranc-i-158-10/26625-4-fre-FR/Champ-de-Mars-Le-Mur-pour-la-Paix-%7C-630x405-%7C-%C2%A9-OTCP-David-Lefranc-I-158-10.jpg",
+        "name": "Champ de Mars",
+        "suggestedTime": 1,
+        "web address": "https://www.paris.fr/lieux/parc-du-champ-de-mars-1807#acces"
+      },
+      {
+        "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+        "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed \"La dame de fer\", it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair.",
+        "id": 1,
+        "image": "https://www.toureiffel.paris/sites/default/files/actualite/image_principale/vue_depuisjardins_webbanner_3.jpg",
+        "name": "Eiffel Tower",
+        "suggestedTime": 4,
+        "web address": "https://www.toureiffel.paris/fr"
+      },
+      {
+        "address": "Rue de Rivoli, 75001 Paris, France",
+        "description": "The Louvre, or the Louvre Museum, is the world's most-visited museum, and a historic landmark in Paris, France. It is the home of some of the best-known works of art, including the Mona Lisa and the Venus de Milo.",
+        "id": 2,
+        "image": "https://media.npr.org/assets/img/2021/03/29/gettyimages-1193604575_custom-41849d240200da7ff86478a110cb60db3e988b4a-s1100-c50.jpg",
+        "name": "Louvre Museum",
+        "suggestedTime": 1,
+        "web address": "https://www.louvre.fr/en"
+      },
+      {
+        "address": "Pl. de l'Opéra, 75009 Paris, France",
+        "description": "The Palais Garnier, also known as Opéra Garnier, is a 1,979-seat opera house at the Place de l'Opéra in the 9th arrondissement of Paris, France. It was built for the Paris Opera from 1861 to 1875 at the behest of Emperor Napoleon III.",
+        "id": 3,
+        "image": "https://www.travelyesplease.com/wp-content/uploads/2014/12/IMG_2932-Edit-Edit-Edit_HDR.jpg",
+        "name": "Palais Garnier",
+        "suggestedTime": 2,
+        "web address": "https://www.operadeparis.fr/"
+      }
+    ]
+  },
+  "users": {
+    "user1": {
+      "adventure": {
+        "locations": [
+          {
+            "address": "11 Rue Chevert, 7th arr., 75007 Paris, France ",
+            "image": "https://hotelparismuguet.com/_novaimg/4616479-1421595_0_0_2200_1600_2200_1600.rc.jpg",
+            "name": "Hotel Muguet",
+            "selected": true,
+            "start": true,
+            "startOrEnd": true,
+            "web address": "https://hotelparismuguet.com/"
+          },
+          {
+            "address": "Rue de Rivoli, 75001 Paris, France",
+            "description": "The Louvre, or the Louvre Museum, is the world's most-visited museum, and a historic landmark in Paris, France. It is the home of some of the best-known works of art, including the Mona Lisa and the Venus de Milo.",
+            "id": 2,
+            "image": "https://media.npr.org/assets/img/2021/03/29/gettyimages-1193604575_custom-41849d240200da7ff86478a110cb60db3e988b4a-s1100-c50.jpg",
+            "name": "Louvre Museum",
+            "selected": false,
+            "suggestedTime": 3,
+            "web address": "https://www.louvre.fr/en"
+          },
+          {
+            "address": "Pl. de l'Opéra, 75009 Paris, France",
+            "description": "The Palais Garnier, also known as Opéra Garnier, is a 1,979-seat opera house at the Place de l'Opéra in the 9th arrondissement of Paris, France. It was built for the Paris Opera from 1861 to 1875 at the behest of Emperor Napoleon III.",
+            "id": 3,
+            "image": "https://www.travelyesplease.com/wp-content/uploads/2014/12/IMG_2932-Edit-Edit-Edit_HDR.jpg",
+            "name": "Palais Garnier",
+            "selected": false,
+            "suggestedTime": 2,
+            "web address": "https://www.operadeparis.fr/"
+          },
+          {
+            "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+            "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed \"La dame de fer\", it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair.",
+            "id": 1,
+            "image": "https://www.toureiffel.paris/sites/default/files/actualite/image_principale/vue_depuisjardins_webbanner_3.jpg",
+            "name": "Eiffel Tower",
+            "selected": false,
+            "suggestedTime": 1,
+            "web address": "https://www.toureiffel.paris/fr"
+          },
+          {
+            "address": "2 All. Adrienne Lecouvreur, 75007 Paris, France",
+            "description": "The Champ de Mars is a large public greenspace in Paris, France, located in the seventh arrondissement, between the Eiffel Tower to the northwest and the École Militaire to the southeast. The park is named after the Campus Martius in Rome, a tribute to the Roman god of war.",
+            "id": 0,
+            "image": "https://en.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_230/champ-de-mars-le-mur-pour-la-paix-%7C-630x405-%7C-%C2%A9-otcp-david-lefranc-i-158-10/26625-4-fre-FR/Champ-de-Mars-Le-Mur-pour-la-Paix-%7C-630x405-%7C-%C2%A9-OTCP-David-Lefranc-I-158-10.jpg",
+            "name": "Champ de Mars",
+            "selected": false,
+            "suggestedTime": 1,
+            "web address": "https://www.paris.fr/lieux/parc-du-champ-de-mars-1807#acces"
+          },
+          {
+            "address": "4 Rue de l'Arc de Triomphe, 75017 Paris, France",
+            "arrivalTime": "6:00pm",
+            "image": "https://www.barsparis.com/wp-content/uploads/2014/06/bar-uc-61-600x350.jpg",
+            "name": "UC-61",
+            "selected": true,
+            "startOrEnd": true,
+            "web address": "https://www.uc-61.com/"
+          }
+        ]
+      },
+      "end time": "01 Jan 2023 18:00:00",
+      "name": "Mason",
+      "start time": "01 Jan 2023 12:30:00"
+    }
+  }
+}

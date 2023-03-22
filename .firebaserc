@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "itineraryplanner-67b24"
+  },
+  "targets": {
+    "itineraryplanner-67b24": {
+      "hosting": {
+        "demodev": [
+          "itinerarydemo"
+        ],
+        "official": [
+          "itineraryplanner-67b24"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

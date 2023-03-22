@@ -1,0 +1,15 @@
+h1 {
+    margin: 5%;
+}
+
+.adventure-cards {
+    margin: 2.5%;
+    overflow-x: scroll;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+.card {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}

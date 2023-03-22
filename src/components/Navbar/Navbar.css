@@ -1,0 +1,6 @@
+.static-nav {
+    width: 100%;
+    position: fixed;
+    height: 60px;
+    z-index: 1000;
+}
